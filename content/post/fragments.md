@@ -3,10 +3,10 @@ tags = [
   "",
   "",
 ]
-date = "2016-10-19T23:27:49-04:00"
+date = "2016-10-19T23:58:16-04:00"
 title = "fragments"
 description = ""
-draft = true
+draft = false
 categories = [
   "",
 ]
