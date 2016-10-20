@@ -1,0 +1,13 @@
+baseurl = "/"
+title = "WORLDWIDE GLOBAL"
+languageCode = "en-us"
+
+
+enableRobotsTXT = true
+googleAnalytics = ""
+
+
+ [params]
+   description = "acceleration and world peace"
+   author = ""
+   powered_by = false
