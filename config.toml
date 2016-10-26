@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "WORLDWIDE GLOBAL"
 languageCode = "en-us"
+theme = "light"
 
 
 enableRobotsTXT = true
