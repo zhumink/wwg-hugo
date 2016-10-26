@@ -5,10 +5,10 @@ theme = "light"
 
 
 enableRobotsTXT = true
-googleAnalytics = "UA-79785814-1"
+googleAnalytics = ""
 
 
  [params]
-   description = "acceleration and world peace "
+   description = "acceleration and world peace"
    author = ""
    powered_by = false
