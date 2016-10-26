@@ -5,7 +5,7 @@ theme = "light"
 
 
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-79785814-1"
 
 
  [params]
