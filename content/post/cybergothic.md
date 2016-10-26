@@ -13,8 +13,12 @@ draft = false
 
 +++
 
-[![cybergothic by nick land](/img/barbed-wire.jpg)](/pdf/cybergothic.pdf)
+[![cybergothic by nick land][image-1]][1]
 
 "god withdraws, gets the fuck on out and leaves the cops to keep an eye on things."
 
 --Artaud
+
+[1]:	/pdf/cybergothic.pdf
+
+[image-1]:	/img/barbed-wire.jpg
