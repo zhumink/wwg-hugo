@@ -14,3 +14,7 @@ draft = false
 +++
 
 [![cybergothic by nick land](/img/barbed-wire.jpg)](/pdf/cybergothic.pdf)
+
+"god withdraws, gets the fuck on out and leaves the cops to keep an eye on things."
+
+--Artaud

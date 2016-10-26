@@ -3,7 +3,7 @@ categories = [
   "",
 ]
 tags = [
-  "",
+  "thoery",
   "",
 ]
 description = ""
@@ -14,3 +14,5 @@ title = "magical girls and atomic bomb sperm"
 +++
 
 [![magic girls](/img/heaven.jpg)](/pdf/magic-girls.pdf)
+
+the hierarchy of substances is abolished: a single one replaces them all. the whole world can be plasticized.
