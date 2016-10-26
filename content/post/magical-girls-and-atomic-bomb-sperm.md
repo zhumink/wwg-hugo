@@ -2,9 +2,12 @@
 categories = [
   "",
 ]
+aliases = [
+    "/magical-girls/",
+]
 tags = [
-  "thoery",
-  "",
+  "theory",
+  "art",
 ]
 description = ""
 draft = false

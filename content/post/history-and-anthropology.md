@@ -3,8 +3,8 @@ categories = [
   "",
 ]
 tags = [
-  "",
-  "",
+  "theory",
+  "levi-strauss",
 ]
 description = ""
 draft = false

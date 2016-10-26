@@ -3,8 +3,8 @@ categories = [
   "",
 ]
 tags = [
-  "",
-  "",
+  "theory",
+  "nick land",
 ]
 date = "2016-10-26T01:32:01-04:00"
 title = "cybergothic"

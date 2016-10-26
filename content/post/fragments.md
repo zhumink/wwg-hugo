@@ -1,7 +1,7 @@
 +++
 tags = [
-  "",
-  "",
+  "theory",
+  "heidegger",
 ]
 date = "2016-10-19T23:58:16-04:00"
 title = "fragments"

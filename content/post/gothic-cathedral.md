@@ -2,9 +2,12 @@
 categories = [
   "",
 ]
+aliases = [
+    "/gothic-cathedral/",
+]
 tags = [
-  "",
-  "",
+  "art",
+  "trump",
 ]
 date = "2016-10-19T23:58:28-04:00"
 title = "gothic cathedral"
