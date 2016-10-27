@@ -2,13 +2,23 @@ baseurl = "/"
 title = "WORLDWIDE GLOBAL"
 languageCode = "en-us"
 theme = "light"
-
+paginate = 5
 
 enableRobotsTXT = true
 googleAnalytics = ""
+
 
 
  [params]
    description = "acceleration and world peace"
    author = ""
    powered_by = false
+   show_menu = true
+
+   [menu]
+  [[menu.main]]
+    name = "WORLDWIDE GLOBAL"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
