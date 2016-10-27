@@ -2,7 +2,7 @@ baseurl = "/"
 title = "WORLDWIDE GLOBAL"
 languageCode = "en-us"
 theme = "light"
-paginate = 5
+paginate = 7
 
 enableRobotsTXT = true
 googleAnalytics = ""
