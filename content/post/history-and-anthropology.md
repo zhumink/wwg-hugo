@@ -1,9 +1,9 @@
 +++
 categories = [
-  "",
+  "theory",
 ]
 tags = [
-  "theory",
+  "semiotics",
   "levi-strauss",
 ]
 description = ""

@@ -1,16 +1,15 @@
 +++
-tags = [
+categories = [
   "theory",
+]
+tags = [
   "cixous",
   "feminism",
 ]
 description = ""
-draft = false
 date = "2016-10-27T03:13:44-04:00"
 title = "laugh of medusa"
-categories = [
-  "",
-]
+draft = false
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-date = "2016-11-02T23:36:04-04:00"
-title = "nuts and bolts"
+
 categories = [
-  "",
+  “theatre”,
 ]
 tags = [
   "feminism",
-  "theatre",
 ]
 description = ""
+date = "2016-11-02T23:36:04-04:00"
+title = "nuts and bolts"
 draft = false
 
 +++

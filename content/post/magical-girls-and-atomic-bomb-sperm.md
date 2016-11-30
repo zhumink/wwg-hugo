@@ -1,18 +1,18 @@
 +++
 categories = [
-  "",
+  "theory",
 ]
 aliases = [
     "/magical-girls/",
 ]
 tags = [
-  "theory",
   "art",
+  "criticism",
 ]
 description = ""
-draft = false
 date = "2016-10-26T01:35:53-04:00"
 title = "magical girls and atomic bomb sperm"
+draft = false
 
 +++
 

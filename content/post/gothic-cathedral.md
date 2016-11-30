@@ -1,6 +1,6 @@
 +++
 categories = [
-  "",
+  "art",
 ]
 aliases = [
     "/gothic-cathedral/",
