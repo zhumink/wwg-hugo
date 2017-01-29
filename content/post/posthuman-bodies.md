@@ -14,5 +14,3 @@ stable real whiteness vs. womb
 
 <!--more--> 
 
-Oh, they interrogated me once, so they know me. They’ll come here
-and let us go.

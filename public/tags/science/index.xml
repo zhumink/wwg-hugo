@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on WORLDWIDE GLOBAL</title>
+    <link>/tags/science/index.xml</link>
+    <description>Recent content in Science on WORLDWIDE GLOBAL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>thermodynamics</title>
+      <link>/post/thermodynamics/</link>
+      <pubDate>Thu, 27 Oct 2016 03:18:37 -0400</pubDate>
+      
+      <guid>/post/thermodynamics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/pdf/thermodynamics.pdf&#34;&gt;&lt;img src=&#34;/img/cruising.gif&#34; alt=&#34;maxwell&#39;s demon, thermodynamics, claude shannon&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;emergence of energy as a physical concept forced transition. From classical mechanics to chaotic phenomena aka thermodynamics.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

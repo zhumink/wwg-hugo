@@ -18,4 +18,6 @@ draft = false
 computer at night, barnow's delight.
 computer in the morning, tomcat's warning.
 
+<!--more-->
+
 
