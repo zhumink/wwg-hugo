@@ -1,14 +1,14 @@
 +++
+date = "2016-11-02T23:25:56-04:00"
+title = "writing machines"
 categories = [
-  “theory”,
-]
+  "theory",
+  ]
 tags = [
   "feminism",
   "hayles",
-]
+  ]
 description = ""
-date = "2016-11-02T23:25:56-04:00"
-title = "writing machines"
 draft = false
 
 +++

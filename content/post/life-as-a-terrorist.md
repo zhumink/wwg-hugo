@@ -14,3 +14,5 @@ description = ""
 +++
 
 [![life as a terrorist william t vollman](/img/hoop.jpg)](/pdf/life-as-terrorist.pdf)
+
+IT HURTS

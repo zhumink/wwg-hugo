@@ -1,16 +1,14 @@
 +++
-categories =
-
-  "theory"
-]
-tags = [
-  "nick land",
-  “cybernetics”
-]
-description = ""
 date = "2016-10-26T01:32:01-04:00"
 title = "cybergothic"
-
+categories =[
+  "theory",
+  ]
+tags = [
+  "nick land",
+  "cybernetics",
+  ]
+description = ""
 draft = false
 
 +++
