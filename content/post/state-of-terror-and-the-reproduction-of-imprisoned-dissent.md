@@ -7,10 +7,9 @@ tags = ["post-trump","dissent"]
 categories = [""]
 
 +++
-Amongst the many techniques suggested by Dr Schein were the following:
-
 [![](/img/flame-on.jpeg)](/pdf/state-of-terror.pdf)
 
+Amongst the many techniques suggested by Dr Schein were the following...
 <!--more--> 
 
 1. physically remove the prisoner to an area sufficiently isolated in order to break or seriously weaken close emotional ties;

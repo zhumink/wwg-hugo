@@ -11,7 +11,7 @@ description = ""
 draft = false
 
 +++
-
 [![fragments by martin heidegger](/img/love.jpg)](/pdf/fragments.pdf)
 
 it's not good to always get what you want. disease makes health sweet, exhaustion rest.
+<!--more-->

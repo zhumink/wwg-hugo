@@ -12,7 +12,6 @@ description = ""
 draft = false
 
 +++
-
 [![maxwell's demon, thermodynamics, claude shannon][image-1]][1]
 
 emergence of energy as a physical concept forced transition. From classical mechanics to chaotic phenomena aka thermodynamics.

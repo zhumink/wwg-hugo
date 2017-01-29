@@ -7,10 +7,8 @@ draft = false
 description = ""
 
 +++
-
-stable real whiteness vs. womb
-
 [![](/img/death-stares.jpeg)](/pdf/post-human.pdf)
 
+stable real whiteness vs. womb
 <!--more--> 
 

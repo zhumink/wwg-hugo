@@ -15,7 +15,7 @@ title = "magical girls and atomic bomb sperm"
 draft = false
 
 +++
-
 [![magic girls](/img/heaven.jpg)](/pdf/magic-girls.pdf)
 
 the hierarchy of substances is abolished: a single one replaces them all. the whole world can be plasticized.
+<!--more-->

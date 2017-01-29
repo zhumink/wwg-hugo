@@ -12,12 +12,10 @@ title = "level 1997"
 draft = false
 
 +++
-
 [![level 1997](/img/me.jpg)](/pdf/level-1997.pdf)
 
 computer at night, barnow's delight.
 computer in the morning, tomcat's warning.
-
 <!--more-->
 
 

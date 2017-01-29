@@ -11,6 +11,7 @@ description = ""
 draft = false
 
 +++
-before any kind of genital reassignment surgery
 [![nuts and bolts ](/img/www-girl.jpg)](/pdf/nuts.pdf)
+
+before any kind of genital reassignment surgery
 <!--more-->

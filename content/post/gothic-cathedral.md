@@ -15,9 +15,8 @@ description = ""
 draft = false
 
 +++
-
 [![don't trump america](/img/trump-america.jpg)](/pdf/gothic-cathedral.pdf)
 
 "let thy speech be better than silence, or be silent"
-
+<!--more-->
 -- Pseudo-Dionysius the Areopagitte

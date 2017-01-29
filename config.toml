@@ -18,7 +18,7 @@ googleAnalytics = ""
 
    [menu]
   [[menu.main]]
-    name = "img/wwg-logo.png"
+    name = "*"
     weight = 1
     identifier = "home"
     url = "/"

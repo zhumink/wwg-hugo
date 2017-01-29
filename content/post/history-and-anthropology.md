@@ -16,3 +16,4 @@ title = "history and anthropology"
 [![introduction to history and anthropology by claude levi strauss](/img/ghost-machine.jpg)](/pdf/history-anthropology.pdf)
 
 in the trobriand islands, the men use magic to fish and build canoes while the women use magic to make straw clothes and cure toothaches
+<!--more-->
