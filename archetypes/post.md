@@ -1,8 +1,8 @@
 +++
 description = ""
-draft = true
+draft = false
 categories = [""]
 tags = ["", ""]
 +++
 
-[![](/img/)](/pdf/)
+[![](/img/)](/pdf/.pdf)

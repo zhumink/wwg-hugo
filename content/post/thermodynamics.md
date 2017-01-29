@@ -17,6 +17,8 @@ draft = false
 
 emergence of energy as a physical concept forced transition. From classical mechanics to chaotic phenomena aka thermodynamics.
 
+<!--more-->
+
 [1]:	/pdf/thermodynamics.pdf
 
 [image-1]:	/img/cruising.gif

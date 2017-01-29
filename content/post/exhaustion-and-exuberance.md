@@ -15,5 +15,6 @@ draft = false
 defy the presure to perform
 
 [![jan verwoert and high-performance culture](/img/hair-day.jpg)](/pdf/exhaustion.pdf)
+<!--more-->
 
 

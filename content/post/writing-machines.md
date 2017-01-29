@@ -16,3 +16,4 @@ draft = false
 materiality interpenetrates the represented world
 
 [![writing machines by n. katherine hayles](/img/exotic-dancers.jpg)](/pdf/writing-machines.pdf)
+<!--more-->
