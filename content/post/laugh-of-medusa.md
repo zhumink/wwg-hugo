@@ -15,3 +15,5 @@ draft = false
 
 by means of laws, lies, blackmail, and marriage
 [![laugh of medusa by hélène cixous aka swallow me](/img/swallow.gif)](/pdf/laugh-of-medusa.pdf)
+
+<!--more-->

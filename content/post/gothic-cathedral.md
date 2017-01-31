@@ -21,3 +21,5 @@ draft = false
 "let thy speech be better than silence, or be silent"
 
 -- Pseudo-Dionysius the Areopagitte
+
+<!--more-->
