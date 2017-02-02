@@ -12,8 +12,6 @@ googleAnalytics = ""
  [params]
    description = "acceleration and world peace"
    author = ""
-   powered_by = false
-   logo = "img/wwg-logo.png"
    show_menu = true
 
    [menu]
