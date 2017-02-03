@@ -7,8 +7,6 @@ paginate = 7
 enableRobotsTXT = true
 googleAnalytics = ""
 
-
-
  [params]
    description = "acceleration and world peace"
    author = ""
